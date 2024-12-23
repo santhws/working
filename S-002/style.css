@@ -1,0 +1,38 @@
+.conteiner { 
+background-color: antiquewhite;
+display: grid;
+height: 70px;
+place-items: center;
+justify-content: center;
+margin: 10px;
+border: 3px solid black;
+}
+
+.text {
+    font-size: 24px;
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tittle {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+p {
+    background-color: rgb(255, 222, 222);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    width: 450px;
+    cursor: pointer;
+}
+
+.list {
+    justify-items: center;
+}
+
+li {
+    background-color: aliceblue;
+    width: 450px;
+    font-size: 1.5em;
+}

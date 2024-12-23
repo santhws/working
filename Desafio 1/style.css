@@ -1,0 +1,18 @@
+p{
+    color: blanchedalmond;
+    background-color: black;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    background-color: bisque;
+}
+
+li{
+    color: rgb(0, 0, 0);
+    background-color: bisque;
+}
+
+.fundo-verde{
+    background-color: green;
+}

@@ -1,0 +1,10 @@
+.card{
+    background-color: gray;
+    width: 400px;
+    height: 300px;
+    overflow-y: scroll;
+}
+
+.lorem{
+    font-size: 20px
+}

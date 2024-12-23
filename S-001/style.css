@@ -1,0 +1,68 @@
+#massas{
+    /* BACKGROUND & RESOLUTION */
+    background-color: rgb(0, 83, 56);
+    width: 400px;
+    height: 100px;
+    /* BORD */
+    border-radius: 10px;
+    border: 5px solid black;
+    /* TEXT */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+}
+
+#bolos{
+    /* BACKGROUND & RESOLUTION */
+    background-color: aqua;
+    width: 400px;
+    height: 100px;
+    /* BORD & MARGIN*/
+    border-radius: 10px;
+    border: 5px solid black;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    /* TEXT */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+}
+
+#sobremesas{
+    /* BACKGROUND & RESOLUTION */
+    background-color: chocolate;
+    width: 400px;
+    height: 100px;
+    /* BORD & MARGIN*/
+    border-radius: 10px;
+    border: 5px solid black;
+    /* TEXT */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+}
+
+#titulo1{
+    font-size: 2em;
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    display: grid;              /* Ativa o Grid */
+    place-items: center;        /* Centraliza horizontal e verticalmente */
+    height: 100vh;              /* Altura total da janela */
+    background: #f0f0f0;        /* Cor de fundo */
+  }
+  
+  .text {
+    font-size: 24px;
+    color: #333;
+  }
+  
